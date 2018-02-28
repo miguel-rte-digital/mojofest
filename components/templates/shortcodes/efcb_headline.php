@@ -1,0 +1,1 @@
+<<?php echo $args['type'];?> <?php echo $args['styles']['section']; ?> class="site__title"><?php echo $args['text']; ?></<?php echo $args['type'];?>>

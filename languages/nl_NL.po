@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fudge\n"
+"POT-Creation-Date: 2016-03-15 11:48+0100\n"
+"PO-Revision-Date: 2016-03-24 18:01+0100\n"
+"Last-Translator: Mohsin <atranslationshouse@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: event-framework\n"
+
+#: 404.php:9
+msgid "404 Not Found"
+msgstr "404 Niet gevonden"
+
+#: 404.php:21
+msgid "Apologies, but the page you requested could not be found."
+msgstr "Excuses, maar de door u opgevraagde pagina kon niet worden gevonden."
+
+#: archive.php:57 category.php:57
+#: components/templates/shortcodes/efcb_news.php:49 index.php:57 search.php:58
+#: single-speaker.php:231
+msgid "READ MORE"
+msgstr "MEER LEZEN"
+
+#: archive.php:69 category.php:69 index.php:69 search.php:70
+msgid "No posts found"
+msgstr "Geen berichten gevonden"
+
+#: assets/css/dynamic.css.php:6
+msgid "Best!"
+msgstr "Top!"
+
+#: components/templates/shortcodes/efcb_contact.php:44
+msgid "Name"
+msgstr "Naam"
+
+#: components/templates/shortcodes/efcb_contact.php:45
+msgid "Email"
+msgstr "E-mail"
+
+#: components/templates/shortcodes/efcb_contact.php:46
+msgid "Message"
+msgstr "Bericht"
+
+#: components/templates/shortcodes/efcb_contact.php:60
+msgid "MESSAGE SENT!"
+msgstr "BERICHT VERZONDEN!"
+
+#: components/templates/shortcodes/efcb_event_timer.php:17
+msgid "days"
+msgstr "dagen"
+
+#: components/templates/shortcodes/efcb_event_timer.php:21
+msgid "hours"
+msgstr "uren"
+
+#: components/templates/shortcodes/efcb_event_timer.php:25
+msgid "min"
+msgstr "min"
+
+#: components/templates/shortcodes/efcb_event_timer.php:29
+msgid "sec"
+msgstr "sec"
+
+#: components/templates/shortcodes/efcb_exhibitors.php:29
+msgid "CATEGORY:"
+msgstr "CATEGORIE:"
+
+#: components/templates/shortcodes/efcb_exhibitors.php:37
+msgid "Search"
+msgstr "Zoeken"
+
+#: components/templates/shortcodes/efcb_fullschedule.php:76
+#: components/templates/shortcodes/efcb_fullschedule.php:82
+msgid "All"
+msgstr "ALLEMAAL"
+
+#: components/templates/shortcodes/efcb_map.php:42
+#: components/templates/shortcodes/efcb_speakers.php:57
+msgid "VIEW ALL"
+msgstr "ALLES BEKIJKEN"
+
+#: components/templates/shortcodes/efcb_map.php:46
+msgid "Back"
+msgstr "Terug"
+
+#: components/templates/shortcodes/efcb_media.php:87
+#: components/templates/shortcodes/efcb_speakers.php:52
+#: components/templates/shortcodes/efcb_twitter_wrap.php:64
+msgid "LOAD MORE"
+msgstr "MEER LADEN"
+
+#: components/templates/shortcodes/efcb_newsletter.php:17
+msgid "SUBSCRIBE"
+msgstr "AANMELDEN"
+
+#: components/templates/shortcodes/efcb_schedule.php:46
+msgid "Location"
+msgstr "Locatie"
+
+#: components/templates/shortcodes/efcb_schedule.php:52
+msgid "Track"
+msgstr "Spoor"
+
+#: components/templates/shortcodes/efcb_twitter_wrap.php:47
+msgid "VIEW ON TWITTER"
+msgstr "BEKIJK OP TWITTER"
+
+#: ef-options.php:20
+msgid "Logo (Recommended size:145x45)"
+msgstr "Logo (Aanbevolen grootte:145x45)"
+
+#: ef-options.php:21
+msgid "Logo Footer (Recommended size:145x45)"
+msgstr "Logo Voettekst (Aanbevolen grootte:145x45)"
+
+#: ef-options.php:23
+msgid "General Font"
+msgstr "Algemeen lettertype"
+
+#: ef-options.php:24
+msgid "Default"
+msgstr "Standaard"
+
+#: ef-options.php:25
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: ef-options.php:26
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: ef-options.php:27
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: ef-options.php:28
+msgid "Lato"
+msgstr "Lato"
+
+#: ef-options.php:29
+msgid "Oswald"
+msgstr "Oswald"
+
+#: ef-options.php:30
+msgid "Droid Serif"
+msgstr "Droid Serif"
+
+#: ef-options.php:31
+msgid "Roboto"
+msgstr "Roboto"
+
+#: ef-options.php:32
+msgid "Lora"
+msgstr "Lora"
+
+#: ef-options.php:33
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: ef-options.php:34
+msgid "Josefin Slab"
+msgstr "Josefin Slab"
+
+#: ef-options.php:35
+msgid "Arvo"
+msgstr "Arvo"
+
+#: ef-options.php:36
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ef-options.php:37
+msgid "Raleway"
+msgstr "Raleway"
+
+#: ef-options.php:38
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: ef-options.php:39
+msgid "Lobster"
+msgstr "Lobster"
+
+#: ef-options.php:40
+msgid "PT Serif"
+msgstr "PT Serif"
+
+#: ef-options.php:41
+msgid "Old Standard TT"
+msgstr "Old Standard TT"
+
+#: ef-options.php:42
+msgid "Volkorn"
+msgstr "Volkorn"
+
+#: ef-options.php:43
+msgid "Gravitas One"
+msgstr "Gravitas One"
+
+#: ef-options.php:44
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: ef-options.php:47
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: ef-options.php:48
+msgid "Secondary Color"
+msgstr "Secundaire kleur"
+
+#: ef-options.php:49
+msgid "Hover Color"
+msgstr "Zweefkleur"
+
+#: ef-options.php:50
+msgid "Singular Performer Label"
+msgstr "Label voor soloperformer"
+
+#: ef-options.php:51
+msgid "Plural Performer Label"
+msgstr "Label voor meerdere performers"
+
+#: ef-options.php:52
+msgid "Footer text"
+msgstr "Voettekst"
+
+#: ef-options.php:55
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ef-options.php:56
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: ef-options.php:57
+msgid "Show RSS?"
+msgstr "Toon RSS?"
+
+#: ef-options.php:58
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: ef-options.php:59
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: ef-options.php:60
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: ef-options.php:61
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: ef-options.php:62
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: ef-options.php:63
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: ef-options.php:64
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: ef-options.php:65
+msgid "Skype User"
+msgstr "Skype User"
+
+#: ef-options.php:66
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: ef-options.php:69
+msgid "Demo Data"
+msgstr "Demo Data"
+
+#: ef-options.php:69
+msgid "Import test data. Success message will follow."
+msgstr "Testgegevens inporteren. Bevestiging volgt."
+
+#: ef-options.php:72
+msgid "Logo"
+msgstr "Logo"
+
+#: ef-options.php:75
+msgid "Font"
+msgstr "Lettertype"
+
+#: ef-options.php:77
+msgid "Colors"
+msgstr "Kleuren"
+
+#: ef-options.php:81
+msgid "Performers"
+msgstr "Performers"
+
+#: ef-options.php:81
+msgid "How would you like to call your performers? (Default: Speakers)"
+msgstr "Hoe wilt u uw performers noemen? (Standaard: Sprekers)"
+
+#: ef-options.php:106
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ef-options.php:107
+msgid "Twitter Access Token"
+msgstr "Twitter toegangscode"
+
+#: ef-options.php:108
+msgid "Twitter Access Token Secret"
+msgstr "Twitter toegangscode geheim"
+
+#: ef-options.php:109
+msgid "Twitter Consumer Key"
+msgstr "Twitter klantcode:"
+
+#: ef-options.php:110
+msgid "Twitter Consumer Secret"
+msgstr "Twitter klant geheime vraag"
+
+#: ef-options.php:117
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ef-options.php:118
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: ef-options.php:137
+msgid "Contacts"
+msgstr "Contactpersonen"
+
+#: ef-options.php:138
+msgid "Recaptcha Site Key"
+msgstr "Recaptcha Websitecode"
+
+#: ef-options.php:139
+msgid "Recaptcha Secret Key"
+msgstr "Recaptcha Geheime Code"
+
+#: ef-options.php:140
+msgid "Recipient Email"
+msgstr "E-mail Ontvanger"
+
+#: ef-options.php:149
+msgid "General Site Settings"
+msgstr "Algemene website-instellingen"
+
+#: ef-options.php:150
+msgid "Social Networks"
+msgstr "Sociale netwerken"
+
+#: ef-options.php:151
+msgid "Social API"
+msgstr "Sociale API"
+
+#: ef-options.php:152
+msgid "Contact"
+msgstr "Contact"
+
+#: ef-options.php:153
+msgid "Tools"
+msgstr "Extra"
+
+#: functions.php:141
+msgid "Navigation Menu"
+msgstr "Navigatiemenu"
+
+#: functions.php:142
+msgid "Footer Menu 1"
+msgstr "Voettekst Menu 1"
+
+#: functions.php:143
+msgid "Footer Menu 2"
+msgstr "Voettekst Menu 2"
+
+#: functions.php:144
+msgid "Footer Menu 3"
+msgstr "Voettekst Menu 3"
+
+#: functions.php:152
+msgid "For details go to "
+msgstr "Voor gegevens, zie "
+
+#: functions.php:605
+msgid "Recommended size"
+msgstr "Aanbevolen grootte"
+
+#. translators: %s: title of menu item which is invalid
+#: functions.php:736
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ongeldig)"
+
+#. translators: %s: title of menu item in draft status
+#: functions.php:740
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Concept)"
+
+#: functions.php:752
+msgid "sub item"
+msgstr "sub-item"
+
+#: functions.php:780
+msgid "Edit Menu Item"
+msgstr "Bewerken menu-item"
+
+#: functions.php:789
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:796
+msgid "Navigation Label"
+msgstr "Navigatie-label"
+
+#: functions.php:802
+msgid "Title Attribute"
+msgstr "Titel-attribuut"
+
+#: functions.php:808
+msgid "Highlight"
+msgstr "Selecteren"
+
+#: functions.php:810
+msgid "Check to highlight in menu"
+msgstr "Aanvinken voor menuselectie"
+
+#: functions.php:816
+msgid "Open link in a new window/tab"
+msgstr "Open link in een nieuw venster/tabblad"
+
+#: functions.php:821
+msgid "CSS Classes (optional)"
+msgstr "CSS-klassen (optioneel)"
+
+#: functions.php:827
+msgid "Link Relationship (XFN)"
+msgstr "Link relatie (XFN)"
+
+#: functions.php:833
+msgid "Description"
+msgstr "Beschrijving"
+
+#: functions.php:835
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"De omschrijving zal in het menu worden getoond, mits het huidige thema dit "
+"ondersteunt."
+
+#: functions.php:841
+msgid "Move"
+msgstr "Verplaatsen"
+
+#: functions.php:842
+msgid "Up one"
+msgstr "Een omhoog"
+
+#: functions.php:843
+msgid "Down one"
+msgstr "Een omlaag"
+
+#: functions.php:846
+msgid "To the top"
+msgstr "Naar de bovenkant"
+
+#: functions.php:853
+#, php-format
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+#: functions.php:865
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: functions.php:866
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: search.php:9
+msgid "Search results for:"
+msgstr "Zoek resultaten voor:"
+
+#: single-speaker.php:99
+msgid "My Sessions"
+msgstr "Mijn sessies"
+
+#: woocommerce/loop/loop-end.php:12
+msgid "Add to cart"
+msgstr "Toevoegen aan winkelwagen"
+
+#: woocommerce/loop/loop-start.php:13
+msgid "Available Tickets"
+msgstr "Beschikbare toegangskaarten"
+
+#: woocommerce/loop/loop-start.php:14
+msgid "Price"
+msgstr "Prijs"
+
+#: woocommerce/loop/loop-start.php:15
+msgid "Qty"
+msgstr "Qty"

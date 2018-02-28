@@ -1,0 +1,516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fudge\n"
+"POT-Creation-Date: 2016-03-15 11:48+0100\n"
+"PO-Revision-Date: 2016-03-24 18:01+0100\n"
+"Last-Translator: Mohsin <atranslationshouse@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: event-framework\n"
+
+#: 404.php:9
+msgid "404 Not Found"
+msgstr "Erreur 404"
+
+#: 404.php:21
+msgid "Apologies, but the page you requested could not be found."
+msgstr "Nous nous excusons, la page demandée ne peut être trouvée."
+
+#: archive.php:57 category.php:57
+#: components/templates/shortcodes/efcb_news.php:49 index.php:57 search.php:58
+#: single-speaker.php:231
+msgid "READ MORE"
+msgstr "VOIR PLUS"
+
+#: archive.php:69 category.php:69 index.php:69 search.php:70
+msgid "No posts found"
+msgstr "Aucun article trouvé"
+
+#: assets/css/dynamic.css.php:6
+msgid "Best!"
+msgstr "Meilleur!"
+
+#: components/templates/shortcodes/efcb_contact.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: components/templates/shortcodes/efcb_contact.php:45
+msgid "Email"
+msgstr "Email"
+
+#: components/templates/shortcodes/efcb_contact.php:46
+msgid "Message"
+msgstr "Message"
+
+#: components/templates/shortcodes/efcb_contact.php:60
+msgid "MESSAGE SENT!"
+msgstr "MESSAGE ENVOYÉ!"
+
+#: components/templates/shortcodes/efcb_event_timer.php:17
+msgid "days"
+msgstr "jours"
+
+#: components/templates/shortcodes/efcb_event_timer.php:21
+msgid "hours"
+msgstr "heures"
+
+#: components/templates/shortcodes/efcb_event_timer.php:25
+msgid "min"
+msgstr "min"
+
+#: components/templates/shortcodes/efcb_event_timer.php:29
+msgid "sec"
+msgstr "sec"
+
+#: components/templates/shortcodes/efcb_exhibitors.php:29
+msgid "CATEGORY:"
+msgstr "CATÉGORIE :"
+
+#: components/templates/shortcodes/efcb_exhibitors.php:37
+msgid "Search"
+msgstr "Rechercher"
+
+#: components/templates/shortcodes/efcb_fullschedule.php:76
+#: components/templates/shortcodes/efcb_fullschedule.php:82
+msgid "All"
+msgstr "Tous"
+
+#: components/templates/shortcodes/efcb_map.php:42
+#: components/templates/shortcodes/efcb_speakers.php:57
+msgid "VIEW ALL"
+msgstr "VOIR TOUT"
+
+#: components/templates/shortcodes/efcb_map.php:46
+msgid "Back"
+msgstr "Retour"
+
+#: components/templates/shortcodes/efcb_media.php:87
+#: components/templates/shortcodes/efcb_speakers.php:52
+#: components/templates/shortcodes/efcb_twitter_wrap.php:64
+msgid "LOAD MORE"
+msgstr "AJOUTER PLUS D’INFORMATION"
+
+#: components/templates/shortcodes/efcb_newsletter.php:17
+msgid "SUBSCRIBE"
+msgstr "S’INSCRIRE"
+
+#: components/templates/shortcodes/efcb_schedule.php:46
+msgid "Location"
+msgstr "Emplacement"
+
+#: components/templates/shortcodes/efcb_schedule.php:52
+msgid "Track"
+msgstr "Suivre"
+
+#: components/templates/shortcodes/efcb_twitter_wrap.php:47
+msgid "VIEW ON TWITTER"
+msgstr "VOIR SUR TWITTER"
+
+#: ef-options.php:20
+msgid "Logo (Recommended size:145x45)"
+msgstr "Logo (Taille recommandée : 145x45)"
+
+#: ef-options.php:21
+msgid "Logo Footer (Recommended size:145x45)"
+msgstr "Logo de pied de page (Taille recommandée : 145x45)"
+
+#: ef-options.php:23
+msgid "General Font"
+msgstr "Police générale"
+
+#: ef-options.php:24
+msgid "Default"
+msgstr "Défaut"
+
+#: ef-options.php:25
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: ef-options.php:26
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: ef-options.php:27
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: ef-options.php:28
+msgid "Lato"
+msgstr "Lato"
+
+#: ef-options.php:29
+msgid "Oswald"
+msgstr "Oswald"
+
+#: ef-options.php:30
+msgid "Droid Serif"
+msgstr "Droid Serif"
+
+#: ef-options.php:31
+msgid "Roboto"
+msgstr "Roboto"
+
+#: ef-options.php:32
+msgid "Lora"
+msgstr "Lora"
+
+#: ef-options.php:33
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: ef-options.php:34
+msgid "Josefin Slab"
+msgstr "Josefin Slab"
+
+#: ef-options.php:35
+msgid "Arvo"
+msgstr "Arvo"
+
+#: ef-options.php:36
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ef-options.php:37
+msgid "Raleway"
+msgstr "Raleway"
+
+#: ef-options.php:38
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: ef-options.php:39
+msgid "Lobster"
+msgstr "Lobster"
+
+#: ef-options.php:40
+msgid "PT Serif"
+msgstr "PT Serif"
+
+#: ef-options.php:41
+msgid "Old Standard TT"
+msgstr "Old Standard TT"
+
+#: ef-options.php:42
+msgid "Volkorn"
+msgstr "Volkorn"
+
+#: ef-options.php:43
+msgid "Gravitas One"
+msgstr "Gravitas One"
+
+#: ef-options.php:44
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: ef-options.php:47
+msgid "Primary Color"
+msgstr "Couleur Principale"
+
+#: ef-options.php:48
+msgid "Secondary Color"
+msgstr "Couleur Secondaire"
+
+#: ef-options.php:49
+msgid "Hover Color"
+msgstr "Couleur de Survol"
+
+#: ef-options.php:50
+msgid "Singular Performer Label"
+msgstr "Étiquette Interprète Unique"
+
+#: ef-options.php:51
+msgid "Plural Performer Label"
+msgstr "Étiquette Interprète Multiple"
+
+#: ef-options.php:52
+msgid "Footer text"
+msgstr "Texte de bas de page"
+
+#: ef-options.php:55
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: ef-options.php:56
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: ef-options.php:57
+msgid "Show RSS?"
+msgstr "Montrer RSS ?"
+
+#: ef-options.php:58
+msgid "Email Address"
+msgstr "Adresse Email"
+
+#: ef-options.php:59
+msgid "Google+ URL"
+msgstr "URL Google+"
+
+#: ef-options.php:60
+msgid "Flickr URL"
+msgstr "URL Flickr"
+
+#: ef-options.php:61
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: ef-options.php:62
+msgid "Pinterest URL"
+msgstr "URL Pinterest"
+
+#: ef-options.php:63
+msgid "LinkedIn URL"
+msgstr "URL LinkedIn"
+
+#: ef-options.php:64
+msgid "Youtube URL"
+msgstr "URL Youtube"
+
+#: ef-options.php:65
+msgid "Skype User"
+msgstr "Utilisateur Skype"
+
+#: ef-options.php:66
+msgid "Vimeo URL"
+msgstr "URL Vimeo"
+
+#: ef-options.php:69
+msgid "Demo Data"
+msgstr "Données de démonstration"
+
+#: ef-options.php:69
+msgid "Import test data. Success message will follow."
+msgstr "Importer les données test. Un message de confirmation suivra."
+
+#: ef-options.php:72
+msgid "Logo"
+msgstr "Logo"
+
+#: ef-options.php:75
+msgid "Font"
+msgstr "Police"
+
+#: ef-options.php:77
+msgid "Colors"
+msgstr "Couleurs"
+
+#: ef-options.php:81
+msgid "Performers"
+msgstr "Interprètes"
+
+#: ef-options.php:81
+msgid "How would you like to call your performers? (Default: Speakers)"
+msgstr "Comment désirez-vous appeler vos interprètes? (Défaut : Intervenants)"
+
+#: ef-options.php:106
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ef-options.php:107
+msgid "Twitter Access Token"
+msgstr "Jeton d’accès Twitter"
+
+#: ef-options.php:108
+msgid "Twitter Access Token Secret"
+msgstr "Jeton d’accès Twitter secret"
+
+#: ef-options.php:109
+msgid "Twitter Consumer Key"
+msgstr "Clé utilisateur Twitter"
+
+#: ef-options.php:110
+msgid "Twitter Consumer Secret"
+msgstr "Utilisateur Twitter secret"
+
+#: ef-options.php:117
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ef-options.php:118
+msgid "Facebook App ID"
+msgstr "Identifiant Application Facebook"
+
+#: ef-options.php:137
+msgid "Contacts"
+msgstr "Contacts"
+
+#: ef-options.php:138
+msgid "Recaptcha Site Key"
+msgstr "Clé de site Recaptcha"
+
+#: ef-options.php:139
+msgid "Recaptcha Secret Key"
+msgstr "Clé secrète Recaptcha"
+
+#: ef-options.php:140
+msgid "Recipient Email"
+msgstr "Email du destinataire"
+
+#: ef-options.php:149
+msgid "General Site Settings"
+msgstr "Configuration générale du site"
+
+#: ef-options.php:150
+msgid "Social Networks"
+msgstr "Réseaux sociaux"
+
+#: ef-options.php:151
+msgid "Social API"
+msgstr "API social"
+
+#: ef-options.php:152
+msgid "Contact"
+msgstr "Contact"
+
+#: ef-options.php:153
+msgid "Tools"
+msgstr "Outils"
+
+#: functions.php:141
+msgid "Navigation Menu"
+msgstr "Menu de navigation"
+
+#: functions.php:142
+msgid "Footer Menu 1"
+msgstr "Menu de bas de page 1"
+
+#: functions.php:143
+msgid "Footer Menu 2"
+msgstr "Menu de bas de page 2"
+
+#: functions.php:144
+msgid "Footer Menu 3"
+msgstr "Menu de bas de page 3"
+
+#: functions.php:152
+msgid "For details go to "
+msgstr "Pour plus de détails, rendez-vous sur"
+
+#: functions.php:605
+msgid "Recommended size"
+msgstr "Taille recommandée"
+
+#. translators: %s: title of menu item which is invalid
+#: functions.php:736
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Invalide)"
+
+#. translators: %s: title of menu item in draft status
+#: functions.php:740
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (En attente)"
+
+#: functions.php:752
+msgid "sub item"
+msgstr "sous rubrique"
+
+#: functions.php:780
+msgid "Edit Menu Item"
+msgstr "Rubrique Éditer le menu"
+
+#: functions.php:789
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:796
+msgid "Navigation Label"
+msgstr "Onglet Navigation"
+
+#: functions.php:802
+msgid "Title Attribute"
+msgstr "Attribut du Titre"
+
+#: functions.php:808
+msgid "Highlight"
+msgstr "Surlignage"
+
+#: functions.php:810
+msgid "Check to highlight in menu"
+msgstr "Vérifiez pour surligner dans le menu"
+
+#: functions.php:816
+msgid "Open link in a new window/tab"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre/onglet"
+
+#: functions.php:821
+msgid "CSS Classes (optional)"
+msgstr "Classes CSS (optionnel)"
+
+#: functions.php:827
+msgid "Link Relationship (XFN)"
+msgstr "Lier la relation (XFN)"
+
+#: functions.php:833
+msgid "Description"
+msgstr "Description"
+
+#: functions.php:835
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La description sera affichée dans le menu si le thème actuel le permet."
+
+#: functions.php:841
+msgid "Move"
+msgstr "Déplacer"
+
+#: functions.php:842
+msgid "Up one"
+msgstr "D’un cran en haut"
+
+#: functions.php:843
+msgid "Down one"
+msgstr "D’un cran en bas"
+
+#: functions.php:846
+msgid "To the top"
+msgstr "Tout en haut"
+
+#: functions.php:853
+#, php-format
+msgid "Original: %s"
+msgstr "Original : %s"
+
+#: functions.php:865
+msgid "Remove"
+msgstr "Supprimer"
+
+#: functions.php:866
+msgid "Cancel"
+msgstr "Annuler"
+
+#: search.php:9
+msgid "Search results for:"
+msgstr "Chercher résultats pour :"
+
+#: single-speaker.php:99
+msgid "My Sessions"
+msgstr "Mes Sessions"
+
+#: woocommerce/loop/loop-end.php:12
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: woocommerce/loop/loop-start.php:13
+msgid "Available Tickets"
+msgstr "Billets disponibles"
+
+#: woocommerce/loop/loop-start.php:14
+msgid "Price"
+msgstr "Prix"
+
+#: woocommerce/loop/loop-start.php:15
+msgid "Qty"
+msgstr "Qté "
